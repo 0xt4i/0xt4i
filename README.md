@@ -1,41 +1,49 @@
-<h1 align="center">Hi 👋, I'm 0xt4i</h1>
-<h3 align="center">A passionate penetration tester specialized in cybersecurity and ethical hacking.</h3>
+<h1 align="center">👋 Hi, I'm Tai Nguyen Huu</h1>
 
-
-<p align="center">
-  <img align="center" width="100%" alt="Pentesting" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif" />
-</p>
-
-### 🚀 I'm currently working on
-- [**Federated Learning using FedPSO**](https://github.com/0xt4i/flower-fedpso-strategy)
-
-### 🌱 I'm currently learning
-- **Penetration Testing Certification (CPTS, OSCP)**
-
-### 🤝 I'm looking to collaborate on
-- [**Pothole Detector on Android**](https://github.com/thkinh/Pothole-Detector)
-
-### 💬 Ask me about
-- **Web Security, Vulnerability Assessment, Ethical Hacking, Penetration Testing Tools (Burp Suite, Metasploit)**
-
-### 📫 Connect with me:
-<p align="left">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/yourprofile"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://youtube.com"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/></a>
-</p>
-### 🛠 Languages and Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
-</p>
+<h3 align="center">
+  <img align="center" width="250" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif" alt="Pentester"/>
+  <br>
+  Penetration Tester | Cybersecurity Enthusiast 🔒
+</h3>
 
 <p align="center">
-  <img align="center" width="100%" alt="Pentesting" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJoNGQ2dHcydmd0NGZkbDExYndiYndjeDV2ZjU1MjN6dmZjZTMwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif" />
+  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/yourprofile"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://youtube.com"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white"/></a>
+</p>
+
+---
+
+### 🚀 **Current Projects:**
+- [Federated Learning using FedPSO](https://github.com/0xt4i/flower-fedpso-strategy)
+
+### 🌱 **Currently Learning:**
+- Penetration Testing Certifications: **CPTS, OSCP**
+
+### 🤝 **Looking to Collaborate On:**
+- [Pothole Detector on Android](https://github.com/thkinh/Pothole-Detector)
+
+### 💬 **Ask Me About:**
+- Web Security, Vulnerability Assessment, Ethical Hacking, Burp Suite, Metasploit
+
+---
+
+### 🛠 **Technology & Tools:**
+
+#### Penetration Testing & Cybersecurity
+
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/hackthebox/hackthebox-icon.svg" alt="HackTheBox" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+</p>
+
+#### Programming & Databases
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
 </p>
