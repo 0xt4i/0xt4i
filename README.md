@@ -32,6 +32,6 @@
 ### 🛠 **Technology & Tools:**
 
 #### Programming Languages & Frameworks
-  [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,spring,powershell,bash,py,pytorch,sklearn,tensorflow)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,spring,powershell,bash,py,pytorch,sklearn,tensorflow,redpanda)](https://skillicons.dev)
 #### Testing & Documentation & Communication Tools
   [![My Skills](https://skillicons.dev/icons?i=md,notion,vscode,visualstudio,eclipse)](https://skillicons.dev)
