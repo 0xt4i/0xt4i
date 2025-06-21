@@ -2,6 +2,9 @@
 <h3 align="center">A passionate penetration tester specialized in cybersecurity and ethical hacking.</h3>
 
 <p align="center">
+  <img align="center" width="100%" alt="Pentesting" src="Y2lkPTc5MGI3NjExemJoNGQ2dHcydmd0NGZkbDExYndiYndjeDV2ZjU1MjN6dmZjZTMwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw" />
+</p>
+<p align="center">
   <img align="center" width="100%" alt="Pentesting" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif" />
 </p>
 
@@ -18,10 +21,12 @@
 - **Web Security, Vulnerability Assessment, Ethical Hacking, Penetration Testing Tools (Burp Suite, Metasploit)**
 
 ### 📫 Connect with me:
-- **Email:** huutai.network@gmail.com
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/huut4i/)
-- **GitHub:** [GitHub Profile](https://github.com/0xt4i)
-
+<p align="left">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/yourprofile"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://youtube.com"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/></a>
+</p>
 ### 🛠 Languages and Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
@@ -31,4 +36,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/hackthebox/hackthebox-icon.svg" alt="hackthebox" width="40" height="40" />
 </p>
