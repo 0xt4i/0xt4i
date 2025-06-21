@@ -7,10 +7,10 @@
 </h3>
 
 <p align="center">
-  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/yourprofile"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://youtube.com"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/huut4i/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:huutai.network@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/0xt4i"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@t4idev"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white"/></a>
 </p>
 
 ---
