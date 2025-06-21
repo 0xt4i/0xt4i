@@ -2,7 +2,7 @@
 <h3 align="center">A passionate penetration tester specialized in cybersecurity and ethical hacking.</h3>
 
 <p align="center">
-  <img align="center" width="600" alt="Pentesting" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif" />
+  <img align="center" width="100%" alt="Pentesting" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif" />
 </p>
 
 ### 🚀 I'm currently working on
