@@ -31,19 +31,7 @@
 
 ### 🛠 **Technology & Tools:**
 
-#### Penetration Testing & Cybersecurity
-
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/hackthebox/hackthebox-icon.svg" alt="HackTheBox" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-</p>
-
-#### Programming & Databases
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-</p>
+#### Programming Languages & Frameworks
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cs,cpp,java,spring,powershell,bash,py,pytorch,sklearn,tensorflow)](https://skillicons.dev)
+#### Testing & Documentation & Communication Tools
+  [![My Skills](https://skillicons.dev/icons?i=md,notion,vscode,visualstudio,eclipse)](https://skillicons.dev)
