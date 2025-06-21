@@ -2,8 +2,9 @@
 <h3 align="center">A passionate penetration tester specialized in cybersecurity and ethical hacking.</h3>
 
 <p align="center">
-  <img align="center" width="100%" alt="Pentesting" src="Y2lkPTc5MGI3NjExemJoNGQ2dHcydmd0NGZkbDExYndiYndjeDV2ZjU1MjN6dmZjZTMwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw" />
+  <img align="center" width="50%" alt="Pentesting" src="Y2lkPTc5MGI3NjExemJoNGQ2dHcydmd0NGZkbDExYndiYndjeDV2ZjU1MjN6dmZjZTMwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw" />
 </p>
+
 <p align="center">
   <img align="center" width="100%" alt="Pentesting" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif" />
 </p>
@@ -36,5 +37,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/hackthebox/hackthebox-icon.svg" alt="hackthebox" width="40" height="40" />
 </p>
