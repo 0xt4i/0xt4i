@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Tai Nguyen Huu</h1>
+<h1 align="center">👋 Hi, I'm 0xt4i</h1>
 
 <h3 align="center">
   <img align="center" width="100%" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif" alt="Pentester"/>
@@ -32,6 +32,6 @@
 ### 🛠 **Technology & Tools:**
 
 #### Programming Languages & Frameworks
-  [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,spring,powershell,bash,py,pytorch,sklearn,tensorflow,kafka)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cs,cpp,java,spring,powershell,bash,py,pytorch,sklearn,tensorflow,kafka)](https://skillicons.dev)
 #### Testing & Documentation & Communication Tools
   [![My Skills](https://skillicons.dev/icons?i=md,notion,vscode,visualstudio,eclipse)](https://skillicons.dev)
