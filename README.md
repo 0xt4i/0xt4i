@@ -15,10 +15,13 @@
 
 ---
 
-### 🚀 **Current Projects:**
+### 🛠️ **Develop Projects**
 - [Federated Learning using FedPSO](https://github.com/0xt4i/flower-fedpso-strategy)
+- [Parallel Algorithm](https://github.com/0xt4i/Parallel-Algorithm)
+###
 
-### 🌱 **Currently Learning:**
+### 🌱 **Security Learning:**
+- [Theory System and Tool Security](https://github.com/0xt4i/Theory-System-and-Tool-Security) 
 - Penetration Testing Certifications: **CPTS, OSCP**
 
 ### 🤝 **Looking to Collaborate On:**
