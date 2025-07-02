@@ -13,10 +13,10 @@
   <a href="https://www.youtube.com/@t4idev"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white"/></a>
 </p>
 
----
 [<img src="https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="100">](https://www.credly.com/badges/57dd8178-61e4-49f6-a87f-6c3ac41bd836)
 [<img src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="100">](https://www.credly.com/badges/84b75197-ead1-4b3e-a651-88ba861c8fb7)
 
+---
 ### 🛠️ **Develop Projects**
 - [Federated Learning using FedPSO](https://github.com/0xt4i/flower-fedpso-strategy)
 - [Parallel Algorithm](https://github.com/0xt4i/Parallel-Algorithm)
