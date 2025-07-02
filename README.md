@@ -14,8 +14,9 @@
 </p>
 
 ---
-![Ethical Hacker](https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png)
-![AWS Foundation](https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)
+[<img src="https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="100">](https://www.credly.com/badges/57dd8178-61e4-49f6-a87f-6c3ac41bd836)
+[<img src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="100">](https://www.credly.com/badges/84b75197-ead1-4b3e-a651-88ba861c8fb7)
+
 ### 🛠️ **Develop Projects**
 - [Federated Learning using FedPSO](https://github.com/0xt4i/flower-fedpso-strategy)
 - [Parallel Algorithm](https://github.com/0xt4i/Parallel-Algorithm)
@@ -25,12 +26,6 @@
 ### 🌱 **Security Learning:**
 - [Theory System and Tool Security](https://github.com/0xt4i/Theory-System-and-Tool-Security) 
 - Penetration Testing Certifications: **CPTS, OSCP**
-
-### 🤝 **Looking to Collaborate On:**
-- [Pothole Detector on Android](https://github.com/thkinh/Pothole-Detector)
-
-### 💬 **Ask Me About:**
-- Web Security, Vulnerability Assessment, Ethical Hacking, Burp Suite, Metasploit
 
 ---
 
