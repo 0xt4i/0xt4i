@@ -18,6 +18,7 @@
 ### 🛠️ **Develop Projects**
 - [Federated Learning using FedPSO](https://github.com/0xt4i/flower-fedpso-strategy)
 - [Parallel Algorithm](https://github.com/0xt4i/Parallel-Algorithm)
+- [Deployment of Three-tier web application with Docker-compose](https://github.com/0xt4i/Deployment-of-Three-tier-web-application)
 ###
 
 ### 🌱 **Security Learning:**
