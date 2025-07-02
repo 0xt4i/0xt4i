@@ -14,7 +14,8 @@
 </p>
 
 ---
-
+![Ethical Hacker](https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png)
+![AWS Foundation](https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)
 ### 🛠️ **Develop Projects**
 - [Federated Learning using FedPSO](https://github.com/0xt4i/flower-fedpso-strategy)
 - [Parallel Algorithm](https://github.com/0xt4i/Parallel-Algorithm)
