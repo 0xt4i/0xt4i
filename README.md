@@ -19,8 +19,9 @@
 ---
 ### 🛠️ **Develop Projects**
 - [Federated Learning using FedPSO](https://github.com/0xt4i/flower-fedpso-strategy)
-- [Parallel Algorithm](https://github.com/0xt4i/Parallel-Algorithm)
+- [Super Tanks: A Networked Multiplayer Game in Unity](https://github.com/0xt4i/SuperTanks2)
 - [Deployment of Three-tier web application with Docker-compose](https://github.com/0xt4i/Deployment-of-Three-tier-web-application)
+- [Android Studio Project: Real-time Pothole Detection App](https://github.com/0xt4i/App-Realtime-Pothole-Detector-Android)
 ###
 
 ### 🌱 **Security Learning:**
