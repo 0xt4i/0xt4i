@@ -29,8 +29,8 @@
 - Penetration Testing Certifications: **CPTS, OSCP**
 
 ### Interview
-- [DevOps]{https://github.com/0xt4i/DevOps-Interview-Questions}
-- [Penetration Tester]{https://steflan-security.com/penetration-testing-interview-questions-cheat-sheet/}
+- [DevOps](https://github.com/0xt4i/DevOps-Interview-Questions)
+- [Penetration Tester](https://steflan-security.com/penetration-testing-interview-questions-cheat-sheet/)
 ---
 
 ### 🛠 **Technology & Tools:**
