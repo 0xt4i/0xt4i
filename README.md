@@ -25,7 +25,8 @@
 ###
 
 ### 🌱 **Security Learning:**
-- [Theory System and Tool Security](https://github.com/0xt4i/Theory-System-and-Tool-Security) 
+- [Theory System and Tool Security](https://github.com/0xt4i/Theory-System-and-Tool-Security)
+- [Payload all the things](https://github.com/0xt4i/PayloadsAllTheThings)
 - Penetration Testing Certifications: **CPTS, OSCP**
 
 ### 💬 **Interview**
