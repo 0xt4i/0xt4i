@@ -10,7 +10,7 @@
 <!-- Animated Typing Text with Cybersecurity Focus -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=0D5F1A&center=true&vCenter=true&width=600&height=100&lines=Hello+World%2C+I'm+Tai+Nguyen+Huu;aka+0xt4i;DevOps+Engineer;Cybersecurity+Specialist;Ethical+Hacker+%7C+C%2FC%2B%2B+Engineer;Full+Stack+Developer;CTF+Player+%7C+Red+Teamer+Student;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=0D5F1A&center=true&vCenter=true&width=600&height=100&lines=Hello+World%2C+I'm+Tai+Nguyen+Huu+aka+0xt4i;DevOps+Engineer;Cybersecurity+Specialist;Ethical+Hacker+%7C+C%2FC%2B%2B%2Fpython+Engineer;Full+Stack+Developer;CTF+Player+%7C+Red+Teamer+Student;" alt="Typing SVG" />
   </a>
 </p>
 
