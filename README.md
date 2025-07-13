@@ -1,5 +1,6 @@
-# <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-
+<p align="center">
+  <img src="banner.jpg" alt="Banner" width="100%" />
+</p>
 <!-- Animated Name & Title Banner -->
 <!--<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D5F1A&height=200&section=header&text=Amr%20Khaled&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Specialist%20|%20Ethical%20Hacker%20|%20C/C++%20Engineer&descAlignY=60&descAlign=50" width="100%"/>
