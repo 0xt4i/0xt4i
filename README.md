@@ -32,6 +32,7 @@
 
 
 ### 🛠️ **Develop Projects**
+- [SysProdManager: A Minimalistic and Efficient System for Production Workflow Management](https://github.com/0xt4i/SysProdManager)
 - [Federated Learning using FedPSO](https://github.com/0xt4i/flower-fedpso-strategy)
 - [Super Tanks: A Networked Multiplayer Game in Unity](https://github.com/0xt4i/SuperTanks2)
 - [Deployment of Three-tier web application with Docker-compose](https://github.com/0xt4i/Deployment-of-Three-tier-web-application)
