@@ -48,6 +48,7 @@
 ### 💬 **Interview**
 - [DevOps](https://github.com/0xt4i/DevOps-Interview-Questions)
 - [Penetration Tester on Web](https://steflan-security.com/penetration-testing-interview-questions-cheat-sheet/) and [Penetration Tester on github](https://github.com/0xt4i/Penetration-Tester-Interview)
+- [Security Engineer Interview Questions](https://github.com/0xt4i/SecurityEngineer-Interview-Questions)
 ---
 
 ### 🛠 **Technology & Tools:**
