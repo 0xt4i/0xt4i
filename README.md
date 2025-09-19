@@ -31,9 +31,8 @@
 [<img src="https://academy.hackthebox.com/storage/badges/7f81e8837d0540d610c5019478c7647a/logo.png" width="100">](https://academy.hackthebox.com/achievement/badge/22242ba6-639c-11f0-bcfd-bea50ffe6cb4)
 ---
 
-<h3 align="center">
-  <img align="center" width="100%" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif" alt="Pentester"/>
-</h3>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xt4i&theme=github-compact&grid=true&hide_border=true&area=true&area_color=6e4def&title_color=a08efc&line=704df1&point=4795e5" />
+
 
 
 ### 🛠️ **Develop Projects**
