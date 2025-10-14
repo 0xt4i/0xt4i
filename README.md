@@ -11,7 +11,7 @@
 <!-- Animated Typing Text with Cybersecurity Focus -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=0D5F1A&center=true&vCenter=true&width=600&height=100&lines=Hello+World%2C+I'm+Tai+Nguyen+Huu+aka+0xt4i;DevOps+Engineer;Cybersecurity+Specialist;Ethical+Hacker+%7C+C%2FC%2B%2B%2Fpython+Engineer;Full+Stack+Developer;CTF+Player+%7C+Red+Teamer+Student;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=0D5F1A&center=true&vCenter=true&width=600&height=100&lines=Hello+World%2C+I'm+Tai+Nguyen+Huu+aka+0xt4i;DevOps+Engineer+%7C+Cloud+Engineer;Ethical+Hacker+%7C+CTF+Player+Student;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -44,13 +44,14 @@
 ###
 
 ### 🌱 **Security Learning:**
-- [Theory System and Tool Security](https://github.com/0xt4i/Theory-System-and-Tool-Security)
-- [Payload all the things](https://github.com/0xt4i/PayloadsAllTheThings)
+- [Penetration Tester on Web](https://steflan-security.com/penetration-testing-interview-questions-cheat-sheet/) and [Penetration Tester on github](https://github.com/0xt4i/Penetration-Tester-Interview)
 - Penetration Testing Certifications: **CPTS, OSCP**
 
-### 💬 **Interview**
+### 🌱 **DevOps/Cloud Learning:**
 - [DevOps](https://github.com/0xt4i/DevOps-Interview-Questions)
-- [Penetration Tester on Web](https://steflan-security.com/penetration-testing-interview-questions-cheat-sheet/) and [Penetration Tester on github](https://github.com/0xt4i/Penetration-Tester-Interview)
+- [AWS infrastructure with Cloudformation](https://github.com/llm-rl-microservices-k8s/aws-infra)
+
+### 💬 **Interview**
 - [Security Engineer Interview Questions](https://github.com/0xt4i/SecurityEngineer-Interview-Questions)
 ---
 
