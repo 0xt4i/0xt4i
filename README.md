@@ -44,16 +44,14 @@
 ###
 
 ### 🌱 **Security Learning:**
+- [Security Engineer Interview Questions](https://github.com/0xt4i/SecurityEngineer-Interview-Questions)
 - [Penetration Tester on Web](https://steflan-security.com/penetration-testing-interview-questions-cheat-sheet/) and [Penetration Tester on github](https://github.com/0xt4i/Penetration-Tester-Interview)
-- Penetration Testing Certifications: **CPTS, OSCP**
+
 
 ### 🌱 **DevOps/Cloud Learning:**
-- [DevOps](https://github.com/0xt4i/DevOps-Interview-Questions)
+- [DevOps Internview](https://github.com/0xt4i/DevOps-Interview-Questions)
 - [AWS infrastructure with Cloudformation](https://github.com/llm-rl-microservices-k8s/aws-infra)
 
-### 💬 **Interview**
-- [Security Engineer Interview Questions](https://github.com/0xt4i/SecurityEngineer-Interview-Questions)
----
 
 ### 🛠 **Technology & Tools:**
 
