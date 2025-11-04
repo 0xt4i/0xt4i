@@ -51,6 +51,7 @@
 ### 🌱 **DevOps/Cloud Learning:**
 - [DevOps Internview](https://github.com/0xt4i/DevOps-Interview-Questions)
 - [AWS infrastructure with Cloudformation](https://github.com/llm-rl-microservices-k8s/aws-infra)
+- [AWS infrastructure with Terraform](https://github.com/0xt4i/terraform-for-aws)
 
 
 ### 🛠 **Technology & Tools:**
